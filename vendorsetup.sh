@@ -1,2 +1,2 @@
-add_lunch_combo pac_athene-userdebug
-add_lunch_combo pac_athene-eng
+add_lunch_combo aicp_athene-userdebug
+add_lunch_combo aicp_athene-eng

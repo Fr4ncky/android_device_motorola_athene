@@ -96,8 +96,8 @@ PRODUCT_COPY_FILES +=  \
     $(LOCAL_PATH)/audio/audio_platform_info_extcodec.xml:system/etc/audio_platform_info_extcodec.xml
 
 # Browser
-PRODUCT_PACKAGES += \
-    Gello
+# PRODUCT_PACKAGES += \
+#     Gello
 
 # Camera
 PRODUCT_PACKAGES += \
