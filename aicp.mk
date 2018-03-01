@@ -22,7 +22,7 @@ $(call inherit-product, vendor/aicp/configs/telephony.mk)
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Fr4ncky (va chier)"
+    DEVICE_MAINTAINERS="Fr4nCky (Fr4nCky)"
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
